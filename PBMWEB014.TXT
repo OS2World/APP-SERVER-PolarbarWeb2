@@ -1,0 +1,29 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: PBMWEB014.ZIP
+       Short Description: PolarbarWeb/2 is a cgi web frontend for the Email software PolarBarMailer. 
+        Long Description: PolarbarWeb/2 is a cgi web frontend for the Email software PolarBarMailer.
+                          With PolarbarWeb/2 can you see, read all Emails from PolarBarMailer with your Webbrowser. 
+
+      Proposed directory
+           for placement: /pub/os2/apps/internet/mail/reader
+
+               Your name: Peter Lueersen 
+           Email address: Peter@warp-ecs-owl.de
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: www.warp-ecs-owl.de
+                          www.warp-ecs-owl.de/Peter_PBMWEB.html   
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: eComstation, OS/2 Warp 4 (FP13), OS/2 Warp Server for eBusiness
+ Additional requirements: OS/2 Webserver with cgi, PolarBarMailer
+
+                Replaces: PBMWEB013.ZIP
+
+
+

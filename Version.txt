@@ -1,0 +1,56 @@
+***************************************************************************************
+*                          POLARBARWEB/2   (c) Peter LÅersen                          *
+*           Email address: Peter@warp-ecs-owl.de                                      *
+*             Program URL: www.warp-ecs-owl.de                                        *
+*                          www.warp-ecs-owl.de/Peter_PBMWEB.html                      *
+*                                                                                     *
+***************************************************************************************
+
+Change History 
+
+Version 0.14
+
+New now using autocomplete="off" for login
+New Show Attachmentlist.
+New Add maker for last show mail in maillist.
+Fix Remove Content-Type: video and Content-Type: application data from Mail
+Fix Subjekt Pos Problem.
+Fix ugly Fonts in Windows
+
+Version 0.13 
+
+My new eMail Peter@warp-ecs-owl.de
+New Add autogrow to all List's.
+
+Version 0.12 
+
+Faster Accountlist
+Source code, rexx-compiler move to subdirectory. See RES.
+Faster MAKE.CMD  Version 012
+New print mail
+
+Version 0.11 
+
+New This program is free software and distribute under the terms of the 
+     GNU General Public License as published by the Free Software Foundation.
+     Version 2 of the License.
+New now working with Apache 1.3.X and 2.0.x.  
+New now working with subdirectory's in the Maildatapath
+New add source code,Free rexx "compiler" and MAKE.CMD to zip-file
+Minor changes to generated messages. 
+ 
+Version 0.10 
+
+New Password - System.  
+New Systeminfo. 
+Minor changes to generated messages. 
+
+Version 0.09 
+
+New Date in the Accountlist.
+New edit the configuration with your browser.
+Minor changes to generated messages. 
+
+Version 0.08 
+
+Initial release  

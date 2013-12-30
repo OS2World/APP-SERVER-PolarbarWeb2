@@ -1,0 +1,35 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: rexx2exe.zip
+       Short Description: Free rexx "compiler" (generates .EXE from .CMD)
+        Long Description: This tool has many generation options and allowes
+                          you to create PM programs (makes using
+                          RxMessageBox() easier), standalone programs or
+                          smaller programs that require a generated DLL.
+                          The code is optionally encrypted and packed so
+                          the generated code can be quite small.
+
+      Proposed directory
+           for placement: /pub/os2/dev/rexx
+
+               Your name: Dennis Bareis
+           Email address: dbareis@labyrinth.net.au
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.labyrinth.net.au/~dbareis/index.htm
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 2.0+
+ Additional requirements:
+
+                Replaces: /pub/os2/dev/rexx/rexx2exe.zip
+
+
+
+
+
+
